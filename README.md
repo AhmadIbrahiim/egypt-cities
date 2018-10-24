@@ -1,5 +1,6 @@
 # Welcome to `egypt-citis` package!
 [![Build Status](https://travis-ci.org/AhmadIbrahiim/egypt-cities.svg?branch=master)](https://travis-ci.org/AhmadIbrahiim/egypt-cities)
+
 `egypt-citis` is an easy to use Node.js library to allow you to lookup a city and all nested areas!
 
 At the moment, this package only supports cairo cities only. There are plans to extend this in the
