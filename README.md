@@ -26,6 +26,7 @@ cities.localCities('NJ')
 
 A sample response or object that this module returns looks like this.
 
+```
 [	{
 		"city_name" : "القاهره"
 	},
@@ -37,7 +38,7 @@ A sample response or object that this module returns looks like this.
 	}
     ...
     ]
-
+```
 ## License
 
 MIT.
