@@ -1,0 +1,25 @@
+{
+  "name": "egypt-cities",
+  "version": "0.0.1",
+  "description": "Egypt city is an easy package that allows you to get all Egyptian cities, And get all sub-areas for each city.  ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadIbrahiim/egypt-cities.git"
+  },
+  "keywords": [
+    "egypt",
+    "cities",
+    "get",
+    "npm"
+  ],
+  "author": "Ahmed.ibrahhim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmadIbrahiim/egypt-cities/issues"
+  },
+  "homepage": "https://github.com/AhmadIbrahiim/egypt-cities#readme"
+}
