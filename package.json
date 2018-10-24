@@ -1,6 +1,6 @@
 {
   "name": "egypt-cities",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Egypt city is an easy package that allows you to get all Egyptian cities, And get all sub-areas for each city.  ",
   "main": "app.js",
   "scripts": {
